@@ -1,6 +1,6 @@
 ---
 id: services
-sort: 2
+sort: 20
 effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard

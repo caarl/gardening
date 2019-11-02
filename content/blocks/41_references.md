@@ -1,6 +1,6 @@
 ---
 id: references
-sort: 4
+sort: 41
 effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard

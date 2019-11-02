@@ -1,6 +1,6 @@
 ---
 id: about
-sort: 1
+sort: 10
 fontSize: medium
 effect: fade-slide-top
 effectTimeout: 0

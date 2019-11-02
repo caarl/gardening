@@ -1,6 +1,6 @@
 ---
 id: three-pics
-sort: 5
+sort: 60
 graphics:
   - author: ''
     image: /assets/image_1.jpg
