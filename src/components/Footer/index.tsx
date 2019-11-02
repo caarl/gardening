@@ -11,8 +11,7 @@ export const Footer: FunctionComponent<{}> = () => {
                 </NoWrap>
             </Info>
             <Info>
-                <NoWrap>VAT Number: 409 1416 72</NoWrap>{' '}
-                <NoWrap>Our website uses no cookies :)</NoWrap>
+                <NoWrap>VAT Number: 409 1416 72</NoWrap>
             </Info>
         </Container>
     );
