@@ -10,7 +10,10 @@ export const Footer: FunctionComponent<{}> = () => {
                     &laquo;CJ &amp; JM Simpson Ltd&raquo;
                 </NoWrap>
             </Info>
-            <Info>Our website uses no cookies :)</Info>
+            <Info>
+                <NoWrap>VAT Number: 409 1416 72</NoWrap>{' '}
+                <NoWrap>Our website uses no cookies :)</NoWrap>
+            </Info>
         </Container>
     );
 };
