@@ -6,5 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Hello. This is a starter for GatsbyJS framework.
-
+Hello. Welcome to Joe's Gardening Services

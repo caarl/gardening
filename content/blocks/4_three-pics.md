@@ -4,10 +4,7 @@ sort: 4
 effect: fade-slide-top
 effectTimeout: 0
 graphics:
-  - author: Sergi Kabrera 
-    image: /assets/image_1.jpg
-    sourceText: Unsplash
-    source: https://unsplash.com/photos/2xU7rYxsTiM
+  - image: /assets/image_1.jpg
   - author: Patrick Lindenberg
     image: /assets/image_2.jpg
     sourceText: Unsplash
