@@ -8,8 +8,8 @@ fontSize: standard
 ---
 ## Contact Details
 
-&bull; E-mail address: joe@cjmsimpson.net
+&bull; E-mail address: <a href="mailto:joe@cjmsimpson.net">joe@cjmsimpson.net</a>
  <br />
-&bull; Telephone (Mobile): 07801 819 417
+&bull; Telephone (Mobile): <a href="tel:07801819417">07801 819 417</a>
  <br />
-&bull; Telephone (Land Line): 01325 374407 <br />
+&bull; Telephone (Land Line): <a href="tel:01325374407">01325 374407</a> <br />
