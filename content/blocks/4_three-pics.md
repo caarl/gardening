@@ -1,18 +1,18 @@
 ---
-id: 'three-pics'
+id: three-pics
 sort: 4
-effect: fade-slide-top
-effectTimeout: 0
 graphics:
   - image: /assets/image_1.jpg
   - author: Patrick Lindenberg
-    image: /assets/image_2.jpg
+    image: /assets/TGGLogoColourMedium.jpg
+    source: 'https://unsplash.com/photos/1iVKwElWrPA'
     sourceText: Unsplash
-    source: https://unsplash.com/photos/1iVKwElWrPA
   - author: Artiom Vallat
     image: /assets/image_3.jpg
+    source: 'https://unsplash.com/photos/H-qqp_Eqaww'
     sourceText: Unsplash
-    source: https://unsplash.com/photos/H-qqp_Eqaww
+effect: fade-slide-top
+effectTimeout: 0
 ---
 
 We also support displaying a series of images:
