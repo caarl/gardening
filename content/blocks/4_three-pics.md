@@ -7,10 +7,10 @@ graphics:
     image: /assets/TGGLogoColourMedium.jpg
     source: 'https://unsplash.com/photos/1iVKwElWrPA'
     sourceText: Unsplash
-  - author: Artiom Vallat
-    image: /assets/image_3.jpg
-    source: 'https://unsplash.com/photos/H-qqp_Eqaww'
-    sourceText: Unsplash
+  - author: ''
+    image: /assets/JoeZwartbleSheepShow.jpg
+    source: ''
+    sourceText: ''
 effect: fade-slide-top
 effectTimeout: 0
 ---
