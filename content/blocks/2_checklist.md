@@ -7,10 +7,9 @@ fontSize: standard
 ---
 Services provided:
 
-
 ✅ Lawn Mowing <br />
 ✅ Digging Borders <br />
-✅ [H](http://www.typescriptlang.org/)edge Cutting <br />
+✅ Hedge Cutting <br />
 ✅ Garden Clearance <br />
 ✅ Wet/Dry Stone Walling<br />
 ✅ Fencing <br />
