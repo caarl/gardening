@@ -11,5 +11,5 @@ fontSize: standard
 ✅ Digging Borders <br />
 ✅ Hedge Cutting <br />
 ✅ Garden Clearance <br />
-✅ Wet/Dry Stone Walling<br />
+✅ Wet/Dry Stone Walling <br />
 ✅ Fencing <br />
