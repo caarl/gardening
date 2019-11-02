@@ -1,13 +1,13 @@
 ---
-id: 'three-pics'
-sort: 3
+id: one-pic
+sort: 1
 graphics:
-  - author: Tianyi Ma
-    image: /assets/single.jpg
-    sourceText: Unsplash
-    source: https://unsplash.com/photos/WiONHd_zYI4
+  - author: ''
+    image: /assets/20160829_GardenShedBrushingUp.jpg
+    source: ''
+    sourceText: ''
 effect: fade-slide-top
 effectTimeout: 0
 ---
 
-So yeah, the starter supports displaying of a single image, like this:
+Tidying up
