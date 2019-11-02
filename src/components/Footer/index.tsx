@@ -7,7 +7,7 @@ export const Footer: FunctionComponent<{}> = () => {
             <Info>
                 <NoWrap>&copy; 2019</NoWrap>{' '}
                 <NoWrap>
-                    &laquo;Grayscale Promo!&raquo; &mdash; a GatsbyJS starter
+                    &laquo;CJ &amp; JM Simpson Ltd&raquo;
                 </NoWrap>
             </Info>
             <Info>Our website uses no cookies :)</Info>

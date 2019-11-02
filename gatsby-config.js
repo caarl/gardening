@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-        title: 'Grayscale promo',
-        description: 'Grayscale promo gatsby starter',
-        author: '@awesome1888',
+        title: 'Joe\'s Gardening Services',
+        description: 'A helping hand for all those jobs you never get around to.',
+        author: '',
     },
     plugins: [
         {
