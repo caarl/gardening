@@ -3,7 +3,7 @@ id: three-pics
 sort: 60
 graphics:
   - author: ''
-    image: /assets/logo.svg
+    image: /assets/logo.png
     source: ''
     sourceText: ''
   - author: ''
