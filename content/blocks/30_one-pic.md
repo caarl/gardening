@@ -1,13 +1,12 @@
 ---
-id: 'one-pic'
+id: one-pic
 sort: 30
 graphics:
-  - author: Tianyi Ma
-    image: /assets/single.jpg
-    sourceText: Unsplash
-    source: https://unsplash.com/photos/WiONHd_zYI4
+  - author: ''
+    image: /assets/20160829_GardenShedBrushingUp.jpg
+    source: ''
+    sourceText: ''
 effect: fade-slide-top
 effectTimeout: 0
 ---
-
-So yeah, the starter supports displaying of a single image, like this:
+Hi, I'm Joe Simpson, or 'Mow Joe' as my wife and daughter in-law find it amusing to call me! I've spent most of my career farming and more recently branched out into gardening services. Outside of work, you might find me at a local sheep show with some of my Zwartble sheep.
