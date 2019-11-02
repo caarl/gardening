@@ -1,12 +1,15 @@
 ---
 id: three-pics
-sort: 4
+sort: 5
 graphics:
-  - image: /assets/image_1.jpg
-  - author: Patrick Lindenberg
+  - author: ''
+    image: /assets/image_1.jpg
+    source: ''
+    sourceText: ''
+  - author: ''
     image: /assets/TGGLogoColourMedium.jpg
-    source: 'https://unsplash.com/photos/1iVKwElWrPA'
-    sourceText: Unsplash
+    source: ''
+    sourceText: ''
   - author: ''
     image: /assets/JoeZwartbleSheepShow.jpg
     source: ''
