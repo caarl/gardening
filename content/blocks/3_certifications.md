@@ -1,6 +1,6 @@
 ---
 id: certifications
-sort: 3
+sort: 4
 effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard
