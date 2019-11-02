@@ -5,7 +5,7 @@ effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard
 ---
-Services provided:
+# Services Provided
 
 ✅ Lawn Mowing <br />
 ✅ Digging Borders <br />
