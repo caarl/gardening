@@ -7,11 +7,11 @@ graphics:
     source: ''
     sourceText: ''
   - author: ''
-    image: /assets/TGGLogoColourMedium.jpg
+    image: /assets/JoeZwartbleSheepShow.jpg
     source: ''
     sourceText: ''
   - author: ''
-    image: /assets/JoeZwartbleSheepShow.jpg
+    image: /assets/TGGLogoColourMedium.jpg
     source: ''
     sourceText: ''
 effect: fade-slide-top
