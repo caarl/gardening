@@ -12,8 +12,8 @@ graphics:
     sourceText: ''
   - author: ''
     image: /assets/TGGLogoColourMedium.jpg
-    source: ''
-    sourceText: ''
+    source: 'http://www.gardenersguild.co.uk/'
+    sourceText: The Gardeners Guild
 effect: fade-slide-top
 effectTimeout: 0
 ---
