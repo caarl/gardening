@@ -14,5 +14,4 @@ graphics:
 effect: fade-slide-top
 effectTimeout: 0
 ---
-
-We also support displaying a series of images:
+&nbsp;
