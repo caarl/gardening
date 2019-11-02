@@ -1,6 +1,6 @@
 ---
 id: accented
-sort: 6
+sort: 7
 widget: AccentBlock
 effect: fade-slide-top
 effectTimeout: 0
