@@ -12,4 +12,4 @@ fontSize: standard
  <br />
 &bull; Telephone (Mobile): 07801 819 417
  <br />
-&bull; Telephone (Land Line): 01325 374 407 <br />
+&bull; Telephone (Land Line): 01325 374407 <br />
