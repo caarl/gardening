@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: 'Joe\'s Gardening Services',
+        title: 'Joe\'s Garden Services',
         description: 'A helping hand for all those jobs you never get around to.',
         author: '',
     },

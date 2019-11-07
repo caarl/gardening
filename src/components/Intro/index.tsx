@@ -40,7 +40,7 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-left"
                                 effectTimeout={timeoutBase}
                             >
-                                Joe's Gardening Services
+                                Joe's Garden Services
                             </Title>
                             <SubTitle
                                 effect="fade-slide-bottom"

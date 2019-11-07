@@ -14,5 +14,5 @@ fontSize: standard
         fjs.parentNode.insertBefore(js, fjs); 
       }(document, 'script', 'facebook-jssdk'));</script> 
       <div class="container content" align="center"> 
-        <div class="fb-page" data-href="https://www.facebook.com/Joes-Gardening-Services-1303035166435915" data-tabs="timeline" data-width="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Joes-Gardening-Services-1303035166435915" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Joes-Gardening-Services-1303035166435915">Joe&#039;s Gardening Services</a></blockquote></div> 
+        <div class="fb-page" data-href="https://www.facebook.com/Joes-Garden-Services-1303035166435915" data-tabs="timeline" data-width="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Joes-Garden-Services-1303035166435915" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Joes-GardenServices-1303035166435915">Joe&#039;s Garden Services</a></blockquote></div> 
       </div> 
