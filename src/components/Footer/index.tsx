@@ -7,7 +7,7 @@ export const Footer: FunctionComponent<{}> = () => {
             <Info>
                 <NoWrap>&copy; 2019</NoWrap>{' '}
                 <NoWrap>
-                    &laquo;CJ &amp; JM Simpson Ltd&raquo;
+                    &laquo;CJ &amp; JM Simpson&raquo;
                 </NoWrap>
             </Info>
             <Info>
